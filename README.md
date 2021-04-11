@@ -2,6 +2,8 @@
 Neural Networks (ANN- CNN- RNN)
 
 
-Practice codes from during TensorFlow Developer Professional Certificate Course
+Practice codes from diffrent online courses  
 
-https://www.tfcertification.com/courses/tensorflow-developer-professional-certificate
+1- TensorFlow Developer Professional Certificate Course
+
+2- Udemy Course : Artificial Neural Network For Regression 
